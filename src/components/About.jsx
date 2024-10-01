@@ -3,15 +3,17 @@ import React from 'react'
 const About = () => {
   return (
     <div className='about'>
-        <h1>About Tourly</h1>
+        <h1>About SADHGURU</h1>
         <div className='about-1'>
           <img className='about-img' src="https://cdn.pixabay.com/photo/2015/01/07/15/51/woman-591576_1280.jpg" alt="" />
-          <p>Tourly is your new best friend! The one who'll make your adventurous travelling life easier even when you think it's already easy!Tourly is a revolutionary digital marketplace connecting tour operators to sales associates and tourists. It'll show you every tour or activity that's available, all in one place - whether you're looking to sell to other people or whether you're a tourist yourself and want to buy beforehand.
+          <p>Who We Are
+          Swaraj Engineering is a leading name in the field of fabrication. Our team of skilled engineers and craftsmen brings together innovation, precision, and attention to detail to create products that stand out in both form and function. Whether you require industrial Fabrication components, we have the expertise and facilities to bring your vision into the real.
           <br/><br/>
-           Travel can be one of the most rewarding forms of introspection.-- Lawrence Durrell</p>
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi, numquam.-- Lawrence Durrell</p>
         </div>
     </div>
   )
 }
 
 export default About
+

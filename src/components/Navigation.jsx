@@ -21,13 +21,13 @@ const Navigation = () => {
             style={{ maxHeight: '120px' }}
              navbarScroll>
             <NavLink className='mylink' to="home">Home</NavLink>
-            <NavLink className='mylink' to="abouts">About</NavLink>
+            <NavLink className='mylink' to="about">About</NavLink>
             <NavDropdown title="Products" id="navbarScrollingDropdown">
-              <Link className='mylink' style={{marginLeft:"35px",color:"black"}} to="explorenorthindias">Products1</Link><br/>
-              <Link className='mylink' style={{marginLeft:"35px",color:"black"}} to="exploresouthindias">Products2</Link>
+              <Link className='mylink' style={{marginLeft:"35px",color:"black"}} to="explorenorthindia">Products1</Link><br/>
+              <Link className='mylink' style={{marginLeft:"35px",color:"black"}} to="exploresouthindia">Products2</Link>
               </NavDropdown>
-            <NavLink className='mylink' to="blogs" >Client Testimonals</NavLink>
-            <NavLink className='mylink' to="contacts" > Contact</NavLink>
+            <NavLink className='mylink' to="blog" >Client Testimonals</NavLink>
+            <NavLink className='mylink' to="contact" > Contact</NavLink>
           </Nav>
         </Navbar.Collapse>
       </Container>

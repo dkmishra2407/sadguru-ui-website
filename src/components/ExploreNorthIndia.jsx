@@ -18,8 +18,8 @@ const ExploreNorthIndia = () => {
   return (
     <>
       <div className='bg-img'>
-        <h1>North India Travel Guide</h1><br />
-        <p>Ostensibly whimsical wandering lead the travellers to the northern destinations of India where there exists copious Himalayan Mountains, offbeat places, pilgrimage sites, famous cities and age-old sandstone creations. The places in this northern region can astound you by their cultural extravaganza, architectural marvels and local cuisine, all so different from each other yet sharing the same region.</p>
+        <h1>Products</h1><br />
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, officia praesentium vero expedita quidem optio similique excepturi necessitatibus, iste rem itaque consequuntur. Ducimus minus in vitae tempore aspernatur sint beatae?</p>
       </div>
       <div>
         <div style={{ display: "flex", justifyContent: "space-around", flexWrap: "wrap" }}>

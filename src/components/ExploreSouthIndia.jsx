@@ -12,8 +12,8 @@ const ExploreSouthIndia = () => {
   return (
     <>
       <div className='bg-img'>
-        <h1>South India Travel Guide</h1><br />
-        <p>South India reminds you of places you wished to see in your dreams. Pristine beaches, vast stretch of ocean, high hills of the Western Ghats and centuries old history. Nothing disappoints you on your journey to the south. Walking down a road with trees on both sides on a sunny morning, the journey itself is as beautiful as the destination. Magnificent rock-cut cave temples depict stories of the ancient Dravidians..</p>
+      <h1>Products</h1><br />
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, officia praesentium vero expedita quidem optio similique excepturi necessitatibus, iste rem itaque consequuntur. Ducimus minus in vitae tempore aspernatur sint beatae?</p>
       </div>
       <div>
         <div style={{ display: "flex", justifyContent: "space-around", flexWrap: "wrap" }}>
